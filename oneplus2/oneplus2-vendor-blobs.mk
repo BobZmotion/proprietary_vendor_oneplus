@@ -54,13 +54,6 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/bin/wfdservice:/system/bin/wfdservice \
         vendor/oneplus/oneplus2/proprietary/bin/xtwifi-client:/system/bin/xtwifi-client \
         vendor/oneplus/oneplus2/proprietary/bin/xtwifi-inet-agent:/system/bin/xtwifi-inet-agent \
-        vendor/oneplus/oneplus2/proprietary/etc/firmware/a225_pfp.fw:/system/etc/firmware/a225_pfp.fw \
-        vendor/oneplus/oneplus2/proprietary/etc/firmware/a225_pm4.fw:/system/etc/firmware/a225_pm4.fw \
-        vendor/oneplus/oneplus2/proprietary/etc/firmware/a225p5_pm4.fw:/system/etc/firmware/a225p5_pm4.fw \
-        vendor/oneplus/oneplus2/proprietary/etc/firmware/a300_pfp.fw:/system/etc/firmware/a300_pfp.fw \
-        vendor/oneplus/oneplus2/proprietary/etc/firmware/a300_pm4.fw:/system/etc/firmware/a300_pm4.fw \
-        vendor/oneplus/oneplus2/proprietary/etc/firmware/a330_pfp.fw:/system/etc/firmware/a330_pfp.fw \
-        vendor/oneplus/oneplus2/proprietary/etc/firmware/a330_pm4.fw:/system/etc/firmware/a330_pm4.fw \
         vendor/oneplus/oneplus2/proprietary/etc/firmware/a420_pfp.fw:/system/etc/firmware/a420_pfp.fw \
         vendor/oneplus/oneplus2/proprietary/etc/firmware/a420_pm4.fw:/system/etc/firmware/a420_pm4.fw \
         vendor/oneplus/oneplus2/proprietary/etc/firmware/alipay.b00:/system/etc/firmware/alipay.b00 \
