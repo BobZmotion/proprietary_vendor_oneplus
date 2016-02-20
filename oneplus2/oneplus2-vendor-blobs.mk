@@ -21,6 +21,7 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/bin/dpmd:system/bin/dpmd \
         vendor/oneplus/oneplus2/proprietary/bin/fingerprintd:/system/bin/fingerprintd \
         vendor/oneplus/oneplus2/proprietary/bin/hci_qcomm_init:/system/bin/hci_qcomm_init \
+        vendor/oneplus/oneplus2/proprietary/bin/ipacm-diag:/system/bin/ipacm-diag \
         vendor/oneplus/oneplus2/proprietary/bin/wcnss_filter:/system/bin/wcnss_filter \
         vendor/oneplus/oneplus2/proprietary/bin/laser_init:/system/bin/laser_init \
         vendor/oneplus/oneplus2/proprietary/bin/mm-qcamera-app:/system/bin/mm-qcamera-app \
